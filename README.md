@@ -183,7 +183,7 @@ Email:amadi.growman@student.moringaschool.com
 
 Name: Caroline Njeri.  
 
-Email:
+Email:caroline.njoroge@student.moringaschool.com
 
 Name:Lynns Waswa.   
 
@@ -191,12 +191,12 @@ Email:lynns.waswa@student.moringaschool.com
 
 Name: Robert Gesembe.   
 
-Email:
+Email:robert.gesembe@student.moringaschool.com
 
 Name: David Kirianja.   
 
-Email:
+Email:david.kiranja@student.moringaschool.com
 
 Name: James Nyamu.
 
-Email:
+Email:james.nyamu@student.moringaschool.com
