@@ -187,7 +187,7 @@ Email:
 
 Name:Lynns Waswa.   
 
-Email:
+Email:lynns.waswa@student.moringaschool.com
 
 Name: Robert Gesembe.   
 
